@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://twitter.com/@harshit59489236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@harshit59489236" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hvcodealpha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hvcodealpha" height="30" width="40" /></a>
- <a href="https://leetcode.com/codealpha9/" target="blank"><img align="center" src="https://imgs.search.brave.com/kP54p5OQJXvUexLL416xqVkCptYneuzGfobXo3lN54s/rs:fit:320:320:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tVEFpZHJSN1pw/b3MvWDhJNjdMa3R4/ZUkvQUFBQUFBQUFK/MnMvQ2kxb0pnaFoy/bmdEM19PcTVHaXpl/YjZkUEpmaHljVjF3/Q0xjQkdBc1lIUS93/MzIwLWgzMjAvTGVl/dENvZGVfQ29kaWl6/b25lJTI1NUIxJTI1/NUQuanBn" height="30" width="40"/></a>
+ <a href="https://leetcode.com/codealpha9/" target="blank"><img align="center" src="https://imgs.search.brave.com/kP54p5OQJXvUexLL416xqVkCptYneuzGfobXo3lN54s/rs:fit:320:320:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tVEFpZHJSN1pw/b3MvWDhJNjdMa3R4/ZUkvQUFBQUFBQUFK/MnMvQ2kxb0pnaFoy/bmdEM19PcTVHaXpl/YjZkUEpmaHljVjF3/Q0xjQkdBc1lIUS93/MzIwLWgzMjAvTGVl/dENvZGVfQ29kaWl6/b25lJTI1NUIxJTI1/NUQuanBn" height="50" width="60"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
